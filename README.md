@@ -1,4 +1,4 @@
-Accompanying code for paper: "Learning Strategy-Aware Linear Classifiers" by Yiling Chen, Yang Liu, and Chara Podimata, which is accepted at NeurIPS2020. The paper is also publicly available here: https://arxiv.org/abs/1911.04004.
+The original code comes from this paper: "Learning Strategy-Aware Linear Classifiers" by Yiling Chen, Yang Liu, and Chara Podimata, which is accepted at NeurIPS2020. The paper is also publicly available here: https://arxiv.org/abs/1911.04004.
 
 
 Folder cont_code/ contains the implementation for the continuous variant, and folder discr_code/ contains the implementation for the discretized variant.
